@@ -31,4 +31,5 @@ https://api-dex.vercel.app/
 3) More useful APIs
 
 # Note
-Do not overuse these APIs on my preview link because some of them are not free after a particular limit
+1) Do not overuse these APIs on my preview link because some of them are not free after a particular limit
+2) For the Marvel Api, you have to enable insecure content for my preview site as the api makes request to a HTTP webpage and not a HTTPS webpage
