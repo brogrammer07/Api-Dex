@@ -1,7 +1,7 @@
 import { SearchIcon } from "@heroicons/react/outline";
 import { motion } from "framer-motion";
 import { useState } from "react";
-import Api from "./api";
+import Api from "./Api";
 
 const productData = [
   {
